@@ -43,7 +43,7 @@
       <td><h6>Java</h6></td>
       <td><h6>Intermediate</h6></td>
       <td><h6>In-progress</h6></td>
-      <td><h6></h6></td>
+      <td><h6>Jan. 21, 2023</h6></td>
       <td><h6></h6></td>
     </tr>
     <tr>
