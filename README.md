@@ -13,6 +13,7 @@
        <th><h5>Status</h5></th>
        <th><h5>Date Started</h5></th>
        <th><h5>Date Finished</h5></th>
+       <th><h5>Remarks</h5></th>
     </tr>    
     <tr>
       <td><h6>Google</h6></td>
