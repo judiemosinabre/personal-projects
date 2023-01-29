@@ -57,7 +57,8 @@
       <td><h6>Hard</h6></td>
       <td><h6>In-progress</h6></td>
       <td><h6>Jan. 11, 2023</h6></td>
-      <td></td>
+      <td><h6></h6></td>
+      <td><h6></h6></td>
     </tr>
     <tr>
       <td><h6>2D Game</h6></td>
@@ -66,12 +67,14 @@
       <td><h6>Will work on this after the tasks above</h6></td>
       <td><h6></h6></td>
       <td><h6></h6></td>
+      <td><h6></h6></td>
     </tr>
     <tr>
       <td><h6>Flappy Bird</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Very Hard</h6></td>
       <td><h6>Will work on this after the tasks above</h6></td>
+      <td><h6></h6></td>
       <td><h6></h6></td>
       <td><h6></h6></td>
     </tr>
