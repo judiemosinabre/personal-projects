@@ -1,2 +1,2 @@
-<b>This is  a Downloadable file</b>
-<p><h6>if you experienced some bugs during the game, feel free to create a MD file here with the list of bugs.</h6><p>
+<b>Will convert to .exe soon if possible</b>
+<p><h6>not addictive but I will surely play this when I am not connected to the internet</h6></p>
