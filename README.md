@@ -52,6 +52,16 @@
       <td><h6>Did this during pre-midterms. Quite difficult but atleast it enhanced my understanding with algorithms.</h6></td>
     </tr>
     <tr>
+      <td><h6>Love O Meter / Compatibility Test</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>Feb. 10, 2023</h6></td>
+      <td><h6>Feb. 10, 2023</h6></td>
+      <td><h6>Code from scratch. Literally annoyed me the whole day! I wanted to include zodiac signs here but bitch wasn't cooperating but 
+      I'll try it again on another program</h6></td>
+    </tr>
+    <tr>
       <td><h6>Minesweeper</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Hard</h6></td>
