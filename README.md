@@ -62,6 +62,16 @@
       I'll try it again on another program</h6></td>
     </tr>
     <tr>
+      <td><h6>Letters 4 U Test: for Valentines Edition</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>Feb. 13, 2023 | 5PM</h6></td>
+      <td><h6>Feb. 13, 2023 | 9PM</h6></td>
+      <td><h6>Very fun to work with. Reminds me of the old ver of android. (not related but idk) Overall, it really made me love coding nd stuffs</h6></td>
+    </tr>
+  
+    <tr>
       <td><h6>Minesweeper</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Hard</h6></td>
