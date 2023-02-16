@@ -71,13 +71,22 @@
       <td><h6>Very fun to work with. Reminds me of the old ver of android. (not related but idk) Overall, it really made me love coding nd stuffs</h6></td>
     </tr>
     <tr>
+      <td><h6>Dress Up Game | GUI</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Working on it</h6></td>
+      <td><h6>Feb. 16, 2023</h6></td>
+      <td><h6></h6></td>
+      <td><h6></h6></td>
+    </tr>
+    <tr>
       <td><h6>Minesweeper</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Hard</h6></td>
-      <td><h6>In-progress</h6></td>
+      <td><h6>-</h6></td>
       <td><h6>Jan. 11, 2023</h6></td>
       <td><h6></h6></td>
-      <td><h6></h6></td>
+      <td><h6>Probably will do it last?</h6></td>
     </tr>
     <tr>
       <td><h6>2D Game</h6></td>
