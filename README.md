@@ -70,6 +70,14 @@
       <td><h6>Feb. 13, 2023 | 9PM</h6></td>
       <td><h6>Very fun to work with. Reminds me of the old ver of android. (not related but idk) Overall, it really made me love coding nd stuffs</h6></td>
     </tr>
+      <td><h6>Letters 4 U Test 2.0</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>Feb. 19, 2023</h6></td>
+      <td><h6>Feb. 20, 2023</h6></td>
+      <td><h6>so obsessed with the process and results. this project got me focused and yk prevents me from doing bad decisions. anw.. it enhanced the way I create algorithms though</h6></td>
+    </tr>
     <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
       <td><h6>Java</h6></td>
