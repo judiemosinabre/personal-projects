@@ -76,7 +76,7 @@
       <td><h6>Done</h6></td>
       <td><h6>Feb. 19, 2023</h6></td>
       <td><h6>Feb. 20, 2023</h6></td>
-      <td><h6>so obsessed with the process and results. this project got me focused and yk prevents me from doing bad decisions. anw.. it enhanced the way I create algorithms though</h6></td>
+      <td><h6>so obsessed with the process and result. this project got me focused and yk prevents me from doing bad decisions. anw.. it enhanced the way I create algorithms though</h6></td>
     </tr>
     <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
