@@ -79,6 +79,15 @@
       <td><h6>so obsessed with the process and result. this project got me focused and yk prevents me from doing bad decisions. anw.. it enhanced the way I create algorithms though</h6></td>
     </tr>
     <tr>
+      <td><h6>IG Feed Layout</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>Feb. 26, 2023</h6></td>
+      <td><h6>Feb. 26, 2023</h6></td>
+      <td><h6>I am sleepy now.. will update my comment soon</h6></td>
+    </tr>
+    <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Intermediate</h6></td>
