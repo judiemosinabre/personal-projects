@@ -1,6 +1,7 @@
 # personal-projects
 <h6>making projects that I find enjoyable</h6>
 
+<p>COMMENT: my files look messy, might organize them after I finished doing my homeworks (wish me luck)</p>
 
 <!-- table for lists -->
   <h4>Project Tracker: </h4>
@@ -58,7 +59,7 @@
       <td><h6>Done</h6></td>
       <td><h6>Feb. 10, 2023</h6></td>
       <td><h6>Feb. 10, 2023</h6></td>
-      <td><h6>Code from scratch. Literally annoyed me the whole day! I wanted to include zodiac signs here but bitch wasn't cooperating but 
+      <td><h6>Code from scratch. Literally annoyed me the whole day! I wanted to include zodiac signs here but yk things didn't go well.
       I'll try it again on another program</h6></td>
     </tr>
     <tr>
@@ -85,7 +86,7 @@
       <td><h6>Done</h6></td>
       <td><h6>Feb. 26, 2023</h6></td>
       <td><h6>Feb. 26, 2023</h6></td>
-      <td><h6>I am sleepy now.. will update my comment soon</h6></td>
+      <td><h6>All function buttons are working. This project is inspired from the app UNUM (layouts your feed on instagram). However, my main issue now is that I want to create a database. Therefore, I will learn mySQL (understand the basics) and will work on this again.</h6></td>
     </tr>
     <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
