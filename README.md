@@ -89,6 +89,15 @@
       <td><h6>All function buttons are working. This project is inspired from the app UNUM (layouts your feed on instagram). However, my main issue now is that I want to create a database. Therefore, I will learn mySQL (understand the basics) and will work on this again.</h6></td>
     </tr>
     <tr>
+      <td><h6>Library Time In/Out</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>Feb. 27, 2023</h6></td>
+      <td><h6>Feb. 27, 2023</h6></td>
+      <td><h6>Actually did this to contribute something for our group presentation. This project's main focus is the UI Design. It looks user friendly and matches my desired output look. Will work on this again once I figured out how to create a database to save the data.</h6></td>
+    </tr>
+    <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Intermediate</h6></td>
@@ -96,15 +105,6 @@
       <td><h6></h6></td>
       <td><h6></h6></td>
       <td><h6></h6></td>
-    </tr>
-    <tr>
-      <td><h6>Minesweeper</h6></td>
-      <td><h6>Java</h6></td>
-      <td><h6>Hard</h6></td>
-      <td><h6>-</h6></td>
-      <td><h6>Jan. 11, 2023</h6></td>
-      <td><h6></h6></td>
-      <td><h6>Probably will do it last?</h6></td>
     </tr>
     <tr>
       <td><h6>2D Game</h6></td>
@@ -123,5 +123,14 @@
       <td><h6></h6></td>
       <td><h6></h6></td>
       <td><h6></h6></td>
+    </tr>
+    <tr>
+      <td><h6>Minesweeper</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Hard</h6></td>
+      <td><h6>-</h6></td>
+      <td><h6>Jan. 11, 2023</h6></td>
+      <td><h6></h6></td>
+      <td><h6>Probably will do it last?</h6></td>
     </tr>
   </table>
