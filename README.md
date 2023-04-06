@@ -98,6 +98,15 @@
       <td><h6>Actually did this to contribute something for our group presentation. This project's main focus is the UI Design. It looks user friendly and matches my desired output look. Will work on this again once I figured out how to create a database to save the data.</h6></td>
     </tr>
     <tr>
+      <td><h6>Product Invetory Record with Database</h6></td>
+      <td><h6>Java</h6></td>
+      <td><h6>Intermediate</h6></td>
+      <td><h6>Done</h6></td>
+      <td><h6>March 2023</h6></td>
+      <td><h6>April 6, 2023</h6></td>
+      <td><h6>Had a hard time connecting to the database. Took me almost a month due to hectic sched but I am happy that I managed to finished the project. Probably will modify some of my old codes and create a db for them. :)) </h6></td>
+    </tr>
+    <tr>
       <td><h6>Dress Up Game | GUI</h6></td>
       <td><h6>Java</h6></td>
       <td><h6>Intermediate</h6></td>
