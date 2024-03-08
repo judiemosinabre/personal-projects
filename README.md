@@ -106,40 +106,4 @@
       <td><h6>April 6, 2023</h6></td>
       <td><h6>Had a hard time connecting to the database. Took me almost a month due to hectic sched but I am happy that I managed to finished the project. Probably will modify some of my old codes and create a db for them. :)) </h6></td>
     </tr>
-    <tr>
-      <td><h6>Dress Up Game | GUI</h6></td>
-      <td><h6>Java</h6></td>
-      <td><h6>Intermediate</h6></td>
-      <td><h6>Working on it</h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-    </tr>
-    <tr>
-      <td><h6>2D Game</h6></td>
-      <td><h6>Java</h6></td>
-      <td><h6>Very Hard</h6></td>
-      <td><h6>Will work on this after the tasks above</h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-    </tr>
-    <tr>
-      <td><h6>Flappy Bird</h6></td>
-      <td><h6>Java</h6></td>
-      <td><h6>Very Hard</h6></td>
-      <td><h6>Will work on this after the tasks above</h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-      <td><h6></h6></td>
-    </tr>
-    <tr>
-      <td><h6>Minesweeper</h6></td>
-      <td><h6>Java</h6></td>
-      <td><h6>Hard</h6></td>
-      <td><h6>-</h6></td>
-      <td><h6>Jan. 11, 2023</h6></td>
-      <td><h6></h6></td>
-      <td><h6>Probably will do it last?</h6></td>
-    </tr>
   </table>
